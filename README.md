@@ -1,5 +1,5 @@
 # Ruby on Rails Sample Application
----
+
 A simple Ruby on Rails web application for managing users and posts.
 Based on the Toy App described in this [Rails tutorial](https://www.railstutorial.org/book/toy_app). 
 
